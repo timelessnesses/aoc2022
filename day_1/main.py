@@ -1,5 +1,5 @@
 s = open("input.txt")
-g = s.read()
+g = s.read().split("\n\n")
 s.close()
 
 nice = []
