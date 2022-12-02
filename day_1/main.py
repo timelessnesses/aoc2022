@@ -15,4 +15,5 @@ for b in nice:
 		value += x
 		
 	all.append(value)
-print(sorted(all,reverse=True))
+print(f"Most calrories is {sorted(all,reverse=True)[0]}")
+print(f"Top 3 calories is {sorted(all,reverse=True)[0] + sorted(all,reverse=True)[1] + sorted(all,reverse=True)[2] }")
