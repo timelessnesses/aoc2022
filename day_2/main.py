@@ -61,6 +61,7 @@ for selection in h:
         You ended up {is_win(elf,you)._name_}
         You rewarded with {is_win(elf,you) + reward_selection(you)} points
         Game Result: {elf._name_} vs {you._name_}
+		
         """
     )
 	count += 1
