@@ -1,4 +1,4 @@
-s = open("input.txt")
+s = open("./day_1/input.txt")
 g = s.read().split("\n\n")
 s.close()
 

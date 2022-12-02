@@ -1,0 +1,15 @@
+[[package]]
+name = "aenum"
+version = "3.1.11"
+description = "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples, and NamedConstants"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "c9d385d4e2ffe9d90fc1dc1772671524b67d87fbc3185ac602d73b4bc760272e"
+
+[metadata.files]
+aenum = []
