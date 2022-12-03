@@ -39,3 +39,18 @@ for o in h:
 
 print(f"P1: {sum(stuffs)=}")
 
+import math
+
+regroupped = [rucksacks[3*i:3*i+3] for i in range(0, math.ceil(len(rucksacks)/3))] # THIS IS SO UGLY
+
+def p2_comparer(first: str, second: str, third: str) -> Character:
+	for character in first:
+		if second.count(character) and third.count(character):
+			return Character(character, 0)
+
+stuffs = []
+
+for h in regroupped:
+	stuffs.append(priority_finder(p2_comparer(*h)))
+
+print(f"P2: {sum(stuffs)=}")
