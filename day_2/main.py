@@ -1,5 +1,3 @@
-# still incorrect?
-
 with open("./day_2/input.txt") as fp:
 	h = fp.read().strip().split("\n")
 h = [x.split() for x in h]
