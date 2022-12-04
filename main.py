@@ -4,7 +4,11 @@ import sys
 print("AOC 2022")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sys.argv.append("day_4") # default for rn
+=======
+sys.argv.append("day_3")  # default for rn
+>>>>>>> origin/main
 =======
 sys.argv.append("day_3")  # default for rn
 >>>>>>> origin/main

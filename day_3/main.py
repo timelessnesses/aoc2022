@@ -19,9 +19,12 @@ class Character:
 
 class Compartment(object):
 <<<<<<< HEAD
+<<<<<<< HEAD
 	def __init__(self,compartment: str) -> None:
 		self.compartment = compartment
 =======
+=======
+>>>>>>> origin/main
     def __init__(self, compartment: str):
         self.compartment = compartment
 
@@ -31,6 +34,9 @@ class Compartment(object):
                 return Character(
                     character, second_compartment.compartment.count(character)
                 )
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
 
 
