@@ -16,7 +16,7 @@ class Character:
 		self.count = count
 
 class Compartment(object):
-	def __init__(self,compartment: str):
+	def __init__(self,compartment: str) -> None:
 		self.compartment = compartment
 
 	def compare(self, second_compartment: "Compartment") -> Character:
