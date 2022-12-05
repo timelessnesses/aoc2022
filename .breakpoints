@@ -3,27 +3,27 @@
     "day_3/main.py": [
       {
         "id": "f7069af1-28d1-43e4-9b55-70c7cb72c005",
-        "line": 22,
-        "version": 1606,
-        "index": 473
+        "line": 1,
+        "version": 1611,
+        "index": 0
       },
       {
         "id": "48dd1a4b-573b-4cee-8217-0a02d8154cda",
-        "line": 23,
-        "version": 1606,
-        "index": 541
+        "line": 1,
+        "version": 1611,
+        "index": 0
       },
       {
         "id": "cfcba276-0b77-41d8-b7e6-cf99c6e84a0e",
-        "line": 24,
-        "version": 1606,
-        "index": 578
+        "line": 1,
+        "version": 1611,
+        "index": 0
       },
       {
         "id": "7a9942ac-d6c0-4308-84e6-f8cae4a0a3cb",
-        "line": 25,
-        "version": 1606,
-        "index": 633
+        "line": 1,
+        "version": 1611,
+        "index": 0
       }
     ]
   }
